@@ -5,5 +5,36 @@
   "author": "DS",
   "cover": "https://cdn.myanimelist.net/images/manga/2/267636.jpg",
   "status": "OnGoing",
-  "chapters": {}
+  "chapters": {
+    "17": {
+      "title": "Capítulo 17",
+      "volume": "",
+      "last_updated": "1764281713",
+      "groups": {
+        "mangalivre": [
+          "https://images2.imgbox.com/c9/30/CyLC1A8T_o.jpg",
+          "https://images2.imgbox.com/1d/e9/zHMu4JY3_o.jpg",
+          "https://images2.imgbox.com/21/60/WzyKrXPR_o.jpg",
+          "https://images2.imgbox.com/03/6a/yukBOIk8_o.jpg",
+          "https://images2.imgbox.com/a7/18/lVP3Qolg_o.jpg",
+          "https://images2.imgbox.com/ff/7c/VVCvuemP_o.jpg",
+          "https://images2.imgbox.com/bd/ba/ObNIasvH_o.jpg",
+          "https://images2.imgbox.com/b2/fe/m1g4kYTa_o.jpg",
+          "https://images2.imgbox.com/56/71/8RPIjLWV_o.jpg",
+          "https://images2.imgbox.com/32/86/ylBMaqW2_o.jpg",
+          "https://images2.imgbox.com/f0/f5/t5gEpVVR_o.jpg",
+          "https://images2.imgbox.com/07/66/9Z07kAqb_o.jpg",
+          "https://images2.imgbox.com/2d/c7/ExVNJKCS_o.jpg",
+          "https://images2.imgbox.com/8a/22/kKeMyE8m_o.jpg",
+          "https://images2.imgbox.com/ae/d3/3i46hH0B_o.jpg",
+          "https://images2.imgbox.com/4e/ae/oQxhVOS2_o.jpg",
+          "https://images2.imgbox.com/36/d5/7vHJBCUN_o.jpg",
+          "https://images2.imgbox.com/60/0b/M7GQKpYb_o.jpg",
+          "https://images2.imgbox.com/22/e7/3JaNE9qz_o.jpg",
+          "https://images2.imgbox.com/ab/fb/DQtEsW6S_o.jpg",
+          "https://images2.imgbox.com/01/1a/2hJ1ihu7_o.jpg"
+        ]
+      }
+    }
+  }
 }
