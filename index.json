@@ -3,9 +3,22 @@
     "name": "saiakuscan",
     "icon_url": "",
     "description": "",
-    "lastUpdated": 1764287922,
-    "total_works": 0,
+    "lastUpdated": 1764289043,
+    "total_works": 1,
     "version": "1.0.0"
   },
-  "works": {}
+  "works": {
+    "sk_JP546546": {
+      "title": "asdasdd",
+      "chapters": [
+        {
+          "id": "5d8506",
+          "title": "asdasdd",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL3NhaWFrdXNjYW4vcmVmcy9oZWFkcy9tYWluL21nYS9KUDU0NjU0Ni5qc29u/",
+          "type": "manga",
+          "cover_url": "urlcsd"
+        }
+      ]
+    }
+  }
 }
