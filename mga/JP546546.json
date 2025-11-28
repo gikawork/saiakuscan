@@ -5,5 +5,36 @@
   "artist": "dsdasdasd",
   "cover": "urlcsd",
   "status": "OnGoing",
-  "chapters": {}
+  "chapters": {
+    "017": {
+      "title": "Cap 017 - Baskerville",
+      "volume": "",
+      "last_updated": "1764290359",
+      "groups": {
+        "saiakuscan": [
+          "https://images2.imgbox.com/8a/63/x5jh64No_o.jpg",
+          "https://images2.imgbox.com/85/2b/ibeoikgQ_o.jpg",
+          "https://images2.imgbox.com/0d/d9/H0M9zVxu_o.jpg",
+          "https://images2.imgbox.com/19/a9/YhL74rYs_o.jpg",
+          "https://images2.imgbox.com/3e/f8/O8nSyyF1_o.jpg",
+          "https://images2.imgbox.com/b4/53/zM5pakvo_o.jpg",
+          "https://images2.imgbox.com/e1/d2/0mDWIoXd_o.jpg",
+          "https://images2.imgbox.com/70/ba/kavkGIYe_o.jpg",
+          "https://images2.imgbox.com/26/a0/QY42L5mW_o.jpg",
+          "https://images2.imgbox.com/bf/9b/ckRoQ3JR_o.jpg",
+          "https://images2.imgbox.com/fc/ff/2Mhdjymb_o.jpg",
+          "https://images2.imgbox.com/12/7a/fJUAifLJ_o.jpg",
+          "https://images2.imgbox.com/c9/fc/JVl4tPR4_o.jpg",
+          "https://images2.imgbox.com/8d/2a/4dqQDlUg_o.jpg",
+          "https://images2.imgbox.com/1b/30/BfvW7GZX_o.jpg",
+          "https://images2.imgbox.com/16/6e/6MK82Sw9_o.jpg",
+          "https://images2.imgbox.com/f6/00/Tv4gqElc_o.jpg",
+          "https://images2.imgbox.com/03/11/eQrvNyMq_o.jpg",
+          "https://images2.imgbox.com/de/2d/dyuFZjNJ_o.jpg",
+          "https://images2.imgbox.com/b6/29/jegSTK3l_o.jpg",
+          "https://images2.imgbox.com/26/8a/r8aXxVdp_o.jpg"
+        ]
+      }
+    }
+  }
 }
