@@ -6,36 +6,6 @@
   "cover": "urlcsd",
   "status": "OnGoing",
   "chapters": {
-    "017": {
-      "title": "Cap 017 - Baskerville",
-      "volume": "",
-      "last_updated": "1764290359",
-      "groups": {
-        "saiakuscan": [
-          "https://images2.imgbox.com/8a/63/x5jh64No_o.jpg",
-          "https://images2.imgbox.com/85/2b/ibeoikgQ_o.jpg",
-          "https://images2.imgbox.com/0d/d9/H0M9zVxu_o.jpg",
-          "https://images2.imgbox.com/19/a9/YhL74rYs_o.jpg",
-          "https://images2.imgbox.com/3e/f8/O8nSyyF1_o.jpg",
-          "https://images2.imgbox.com/b4/53/zM5pakvo_o.jpg",
-          "https://images2.imgbox.com/e1/d2/0mDWIoXd_o.jpg",
-          "https://images2.imgbox.com/70/ba/kavkGIYe_o.jpg",
-          "https://images2.imgbox.com/26/a0/QY42L5mW_o.jpg",
-          "https://images2.imgbox.com/bf/9b/ckRoQ3JR_o.jpg",
-          "https://images2.imgbox.com/fc/ff/2Mhdjymb_o.jpg",
-          "https://images2.imgbox.com/12/7a/fJUAifLJ_o.jpg",
-          "https://images2.imgbox.com/c9/fc/JVl4tPR4_o.jpg",
-          "https://images2.imgbox.com/8d/2a/4dqQDlUg_o.jpg",
-          "https://images2.imgbox.com/1b/30/BfvW7GZX_o.jpg",
-          "https://images2.imgbox.com/16/6e/6MK82Sw9_o.jpg",
-          "https://images2.imgbox.com/f6/00/Tv4gqElc_o.jpg",
-          "https://images2.imgbox.com/03/11/eQrvNyMq_o.jpg",
-          "https://images2.imgbox.com/de/2d/dyuFZjNJ_o.jpg",
-          "https://images2.imgbox.com/b6/29/jegSTK3l_o.jpg",
-          "https://images2.imgbox.com/26/8a/r8aXxVdp_o.jpg"
-        ]
-      }
-    },
     "018": {
       "title": "Cap 018 - Baskerville (2)",
       "volume": "",
@@ -69,6 +39,36 @@
           "https://images2.imgbox.com/cf/33/nP3KRApp_o.jpg",
           "https://images2.imgbox.com/31/25/4n8r9tSV_o.jpg",
           "https://images2.imgbox.com/65/c1/lT3nhySS_o.jpg"
+        ]
+      }
+    },
+    "017": {
+      "title": "Cap 017 - Baskerville",
+      "volume": "",
+      "last_updated": "1764290500",
+      "groups": {
+        "saiakuscan": [
+          "https://images2.imgbox.com/ec/2b/kaP5A0xS_o.jpg",
+          "https://images2.imgbox.com/e8/32/eleGU8yq_o.jpg",
+          "https://images2.imgbox.com/6a/e1/DMyuqHE3_o.jpg",
+          "https://images2.imgbox.com/4f/81/1HRmtK66_o.jpg",
+          "https://images2.imgbox.com/c2/45/oXoE1d7q_o.jpg",
+          "https://images2.imgbox.com/78/4f/gyHGoa4x_o.jpg",
+          "https://images2.imgbox.com/88/62/LVkUsPJF_o.jpg",
+          "https://images2.imgbox.com/53/d6/6uoaXQNB_o.jpg",
+          "https://images2.imgbox.com/61/d6/bYl6JTbm_o.jpg",
+          "https://images2.imgbox.com/25/d8/W75pKvD0_o.jpg",
+          "https://images2.imgbox.com/0b/41/bIqWij2F_o.jpg",
+          "https://images2.imgbox.com/ba/12/HnAMzy3U_o.jpg",
+          "https://images2.imgbox.com/b4/92/gWq7Iw83_o.jpg",
+          "https://images2.imgbox.com/6a/c4/uGjv4V5W_o.jpg",
+          "https://images2.imgbox.com/4e/5f/ppBWbPKA_o.jpg",
+          "https://images2.imgbox.com/62/66/0NbhAgYN_o.jpg",
+          "https://images2.imgbox.com/3b/a5/O55EDKi9_o.jpg",
+          "https://images2.imgbox.com/2c/72/HN3Kkeht_o.jpg",
+          "https://images2.imgbox.com/f9/39/2nge9EBP_o.jpg",
+          "https://images2.imgbox.com/32/ea/XMGNLQMd_o.jpg",
+          "https://images2.imgbox.com/54/7e/btPauIkD_o.jpg"
         ]
       }
     }
