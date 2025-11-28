@@ -3,8 +3,8 @@
     "name": "saiakuscan",
     "icon_url": "",
     "description": "",
-    "lastUpdated": 1764289043,
-    "total_works": 1,
+    "lastUpdated": 1764289374,
+    "total_works": 2,
     "version": "1.0.0"
   },
   "works": {
@@ -17,6 +17,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL3NhaWFrdXNjYW4vcmVmcy9oZWFkcy9tYWluL21nYS9KUDU0NjU0Ni5qc29u/",
           "type": "manga",
           "cover_url": "urlcsd"
+        }
+      ]
+    },
+    "sk_CH45456": {
+      "title": "sdsd",
+      "chapters": [
+        {
+          "id": "dad8c3",
+          "title": "sdsd",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL3NhaWFrdXNjYW4vcmVmcy9oZWFkcy9tYWluL21odWEvQ0g0NTQ1Ni5qc29u/",
+          "type": "manhua",
+          "cover_url": "aaaaaaaaa"
         }
       ]
     }
